@@ -1,4 +1,4 @@
-# Documentation for Simple Client-Server Communication using Python Sockets
+# Simple Client-Server Communication using Python Sockets
 
 This documentation describes the implementation of a simple client-server application using Python's `socket` library. It explains how the client and server interact to exchange messages, adhering to network programming best practices.
 
